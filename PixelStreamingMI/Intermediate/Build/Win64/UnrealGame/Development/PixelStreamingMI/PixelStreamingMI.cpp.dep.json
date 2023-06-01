@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "i:\\unreal\\projects\\pixelstreamingmultiuser\\pixelstreamingmi\\intermediate\\source\\pixelstreamingmi.cpp",
+        "ProvidedModule": "",
+        "PCH": "i:\\unreal\\projects\\pixelstreamingmultiuser\\pixelstreamingmi\\intermediate\\build\\win64\\pixelstreamingmi\\development\\core\\sharedpch.core.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "i:\\unreal\\projects\\pixelstreamingmultiuser\\pixelstreamingmi\\intermediate\\build\\win64\\unrealgame\\development\\pixelstreamingmi\\definitions.pixelstreamingmi.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

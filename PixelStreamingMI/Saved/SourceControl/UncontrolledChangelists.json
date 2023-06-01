@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"I:/Unreal/Projects/PixelStreamingMultiUser/PixelStreamingMI/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"I:/Unreal/Projects/PixelStreamingMultiUser/PixelStreamingMI/Content/FirstPerson/Maps/FirstPersonMap.umap"
+			]
+		}
+	]
+}
