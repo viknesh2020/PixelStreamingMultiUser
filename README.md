@@ -1,3 +1,3 @@
 # PixelStreamingMultiUser
- Pixel Streaming for multiple local users
-Created in reference to the youtube video: 
+<p>Pixel Streaming for multiple local users
+<br>Created in reference to the youtube video:</p> 
